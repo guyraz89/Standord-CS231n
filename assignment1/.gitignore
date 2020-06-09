@@ -1,6 +1,7 @@
 *.swp
 *.pyc
 .env/*
+.DS_Store
 *.ipynb_checkpoints/*
 
 # gitignore the built release.
